@@ -1,4 +1,5 @@
 ﻿using Entity;
+using Entity.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,5 +10,6 @@ namespace DataAccess.Abstract
 {
     public interface ICategoryDal:IRepository<Category>
     {
+
     }
 }
