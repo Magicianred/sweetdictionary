@@ -18,8 +18,19 @@ namespace SweetDictionary.Controllers
         }
         public ActionResult GetCategoryList()
         {
-            var categoryValues = categoryManager.GetAll();
+            //var categoryValues = categoryManager.GetAll();
             return View(categoryValues);
+        }
+        [HttpGet]
+        public ActionResult AddCategory()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult AddCategory(Category c)
+        {
+            //categoryManager.CategoryAddBusiness(c);
+            return RedirectToAction("GetCategoryList");
         }
     }
 }
