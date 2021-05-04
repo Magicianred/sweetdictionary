@@ -24,5 +24,15 @@ namespace Business.Concrete
         {
             return _categoryDal.List();
         }
+
+        public object GetAll()
+        {
+           throw new NotImplementedException();
+        }
+
+        public void CategoryAdd(Category category)
+        {
+            _categoryDal.Add(category);
+        }
     }
 }

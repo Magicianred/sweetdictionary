@@ -261,3 +261,5 @@ C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\SweetDiction
 C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\SweetDictionary\obj\Debug\SweetDictionary.csproj.CopyComplete
 C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\SweetDictionary\obj\Debug\SweetDictionary.dll
 C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\SweetDictionary\obj\Debug\SweetDictionary.pdb
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\SweetDictionary\bin\FluentValidation.dll
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\SweetDictionary\bin\FluentValidation.xml
