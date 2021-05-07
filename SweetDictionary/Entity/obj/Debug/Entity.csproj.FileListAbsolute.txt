@@ -10,3 +10,15 @@ C:\Users\Cahit Can\Desktop\SweetDictionary\Entity\obj\Debug\Entity.csproj.CoreCo
 C:\Users\Cahit Can\Desktop\SweetDictionary\Entity\obj\Debug\Entity.csproj.CopyComplete
 C:\Users\Cahit Can\Desktop\SweetDictionary\Entity\obj\Debug\Entity.dll
 C:\Users\Cahit Can\Desktop\SweetDictionary\Entity\obj\Debug\Entity.pdb
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\Entity\bin\Debug\Entity.dll.config
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\Entity\bin\Debug\Entity.dll
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\Entity\bin\Debug\Entity.pdb
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\Entity\bin\Debug\EntityFramework.dll
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\Entity\bin\Debug\EntityFramework.xml
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\Entity\obj\Debug\Entity.csproj.CopyComplete
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\Entity\obj\Debug\Entity.dll
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\Entity\obj\Debug\Entity.pdb
