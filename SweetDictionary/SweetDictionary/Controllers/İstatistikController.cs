@@ -15,11 +15,11 @@ namespace SweetDictionary.Controllers
         // GET: İstatistik
         public ActionResult Index()
         {
-            var queryCategoryCount = db.Categories.Count().ToString();
-            ViewBag.a1 = queryCategoryCount;
+            var CategoryCount = db.Categories.Count().ToString();
+            ViewBag.a1 = CategoryCount;
 
-            var querySoftwareTitleCount = db.Headings.Count(x => x.HeadingName == "Yazılım").ToString();
-            ViewBag.a2 = querySoftwareTitleCount;
+            var SoftwareTitleCount = db.Headings.Count(x => x.HeadingName == "Yazılım").ToString();
+            ViewBag.a2 = SoftwareTitleCount;
   
             var a3 = (from x in db.Writers select x.WriterFirstName.IndexOf("a")).Distinct().Count().ToString();
             ViewBag.a3 = a3;
