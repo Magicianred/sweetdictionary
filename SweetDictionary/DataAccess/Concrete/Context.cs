@@ -18,4 +18,6 @@ namespace DataAccess.Concrete
         public DbSet<Heading> Headings { get; set; }
         public DbSet<Writer> Writers { get; set; }
     }
-}
+
+    }
+

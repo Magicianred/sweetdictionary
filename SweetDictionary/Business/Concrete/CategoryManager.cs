@@ -34,5 +34,20 @@ namespace Business.Concrete
         {
             _categoryDal.Add(category);
         }
+
+        public Category GetById(int id)
+        {
+            return _categoryDal.Get(x=>x.CategoryId==id);
+        }
+
+        public void CategoryDelete(Category category)
+        {
+            _categoryDal.Delete(category);
+        }
+
+        public void CategoryUpdate(Category category)
+        {
+            _categoryDal.Update(category);
+        }
     }
 }
