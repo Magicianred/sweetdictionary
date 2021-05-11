@@ -1,3 +1,3 @@
-<img src="C:\Kullanıcılar\Cahit Can\Masaüstü\görev.PNG"  width="400" height="200">
+ <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/source.gif"  width="400" height="200">
 
 ### The project is under development. :blush::computer::star::boom::wave:
