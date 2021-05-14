@@ -1,10 +1,11 @@
 ﻿@model Entity.Concrete.Category
 @{
     Layout = null;
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
 <h3>Yeni Kategori Ekleme Sayfası</h3>
-@using(Html.BeginForm("AddCategory","Category",FormMethod.Post))
+@using (Html.BeginForm("AddCategory","Category",FormMethod.Post))
 {
 <div class="form-group">
     @Html.Label("KATEGORİ ADI")

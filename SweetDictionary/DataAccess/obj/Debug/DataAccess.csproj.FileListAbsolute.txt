@@ -26,9 +26,9 @@ C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\DataAccess\b
 C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\DataAccess\bin\Debug\EntityFramework.xml
 C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
-C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\DataAccess\obj\Debug\DataAccess.Migrations.mig1.resources
-C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
 C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
 C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\DataAccess\obj\Debug\DataAccess.Migrations.mig1.resources
+C:\Users\Cahit Can\Documents\GitHub\sweetdictionary\SweetDictionary\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
